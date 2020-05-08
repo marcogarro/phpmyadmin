@@ -17,7 +17,7 @@ Start the service:
 
 `$ sudo docker-compose up -d` 
 
-Goto your phpMyAdmin tool here: http://localhost:8090
+Goto your phpMyAdmin tool here: http://localhost:8081
 
 The **credentials** are: 
 
